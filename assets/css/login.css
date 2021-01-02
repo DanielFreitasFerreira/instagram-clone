@@ -136,3 +136,8 @@
   margin-bottom: 16px;
   text-align: center;
 }
+.login__section--transparent{
+  /* background-color: transparent; */
+  background: transparent;
+  border: none;
+}
