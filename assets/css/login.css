@@ -10,7 +10,7 @@
 .login__column {
   width: 50%;
 }
-.login__phone {
+.login__phone-image {
   width: 25rem;
 }
 
@@ -44,4 +44,24 @@
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 14px;
+}
+.login__appstores {
+  display: flex;
+  justify-content: center;
+}
+.login__appstores > img {
+  margin-right: 10px;
+}
+.login__app {
+  display: flex;
+  flex-direction: column;
+  background: none;
+  border: 0;
+}
+.login__app .login__text {
+  display: block;
+  padding: 20px 0 20px 0;
+}
+.login__appstores img {
+  height: 2.5rem;
 }
