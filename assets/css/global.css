@@ -1,7 +1,7 @@
 body{
   background-color: #FAFAFA;
   font-size: 16px;
-  padding-top: calc(80px - 5px);
+  /* padding-top: calc(80px - 5px); */
   font-family: 'Open Sans', sans-serif;
 }
 main{
